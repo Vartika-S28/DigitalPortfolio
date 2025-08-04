@@ -94,7 +94,7 @@ if (statsContainer) {
 
 // Active Navigation Link Highlighting
 const sections = document.querySelectorAll('section[id]');
-const navLinks = document.querySelectorAll('.nav-link');
+const navLinkItems = document.querySelectorAll('.nav-link'); 
 
 window.addEventListener('scroll', () => {
     let current = '';
@@ -191,3 +191,5 @@ document.addEventListener('click', (e) => {
         navLinks.classList.remove('active');
     }
 }); 
+
+
