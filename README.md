@@ -1,4 +1,4 @@
-# Alex Chen - Portfolio Website
+# Vartika Singh - Portfolio Website
 
 A clean, modern, and minimalistic portfolio website showcasing creative development skills and projects. Built with HTML5, CSS3, and JavaScript, designed to be responsive and user-friendly.
 
